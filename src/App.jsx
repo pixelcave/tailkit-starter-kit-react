@@ -69,8 +69,8 @@ function App() {
           <h1 className="lg:leading-tighter mb-4 text-3xl font-black text-black dark:text-white md:text-5xl lg:mx-auto lg:w-5/6">
             <span className="bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent dark:from-blue-400 dark:via-indigo-400 dark:to-purple-400">
               Build
-            </span>
-            super modern web applications and websites
+            </span>{" "}
+            super modern web applications and websites{" "}
             <span className="bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 bg-clip-text text-transparent dark:from-blue-400 dark:via-indigo-400 dark:to-purple-400">
               really fast
             </span>
